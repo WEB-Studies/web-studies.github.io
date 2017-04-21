@@ -1214,7 +1214,7 @@ li.document > .document-name {
 
 .table {
   position: relative;
-	height: 600px;
+	height: 200px;
 	width: 100%;
   background-image: url('../images/wood-pattern.png');
 }
