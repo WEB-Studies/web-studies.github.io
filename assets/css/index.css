@@ -1212,5 +1212,9 @@ li.document > .document-name {
     transform: translate(-50%, 10%);
 }
 
-/* Hide arrow */
-/*@media only screen and (max-*/
+.table {
+  position: relative;
+	height: 600px;
+	width: 100%;
+  background-image: url('../images/wood-pattern.png');
+}
